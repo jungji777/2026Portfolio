@@ -246,7 +246,7 @@ const Certifications = () => {
       institution: "Oracle University",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758874417/Sin_ti%CC%81tulo_dw9zgo.png",
       date: "2025",
-      description: "Programa avanzado en Inteligencia Artificial que cubre machine learning, deep learning, ética en IA y aplicaciones empresariales.",
+      description: "Certificación oficial de Oracle que valida conocimientos avanzados en ciencia de datos utilizando Oracle Cloud Infrastructure (OCI)",
       fullDescription: "Certificación oficial de Oracle que valida conocimientos avanzados en ciencia de datos utilizando Oracle Cloud Infrastructure (OCI). El programa cubre técnicas de machine learning, análisis predictivo, procesamiento de datos a gran escala, y automatización de flujos de trabajo en entornos cloud. Los profesionales certificados demuestran dominio en el uso de herramientas como OCI Data Science, Jupyter Notebooks, y Python para el desarrollo, entrenamiento y despliegue de modelos de machine learning en la nube. La certificación incluye casos prácticos centrados en la resolución de problemas empresariales reales mediante inteligencia artificial.",
       skills: ["Machine Learning", "Oracle Cloud Infrastructure (OCI)", "Python for data science", "Jupyter Notebooks in the Cloud", "Big Data", "Model Deployment", "TensorFlow", "PyTorch", "pipelines"],
       credentialId: "102000968OCI25DSOCP",
