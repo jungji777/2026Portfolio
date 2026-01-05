@@ -37,7 +37,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Cloud className="w-6 h-6" />,
+      icon: <CloudDrizzle className="w-6 h-6" />,
       image:
         "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414031/Captura_de_pantalla_2026-01-02_a_la_s_19.27.00_zjltmf.png",
       title: "Amazon EMR",
@@ -56,7 +56,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Brain className="w-6 h-6" />,
+      icon: <BrainCircuit className="w-6 h-6" />,
       title: "Microsoft Azure AI",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414030/Captura_de_pantalla_2026-01-02_a_la_s_22.16.22_r4ux4t.png",
       description: "Running a training script as a command job in Azure Machine Learning",
@@ -65,7 +65,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Brain className="w-6 h-6" />,
+      icon: <BrainCircuit className="w-6 h-6" />,
       title: "Microsft AI Services",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.13.53_tnpon3.png",
       description: "Creation and consumption of Azure AI services .pdf",
@@ -74,7 +74,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Brain className="w-6 h-6" />,
+      icon: <BrainCircuit className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.14.53_iblri0.png",
       description: "Introduction to the prompt flow for developing linguistic modeling applications in Azure AI Foundry",
@@ -83,7 +83,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Database className="w-6 h-6" />,
+      icon: <BrainCircuit className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.16.28_knm5qn.png",
       description: "Tuning a language model with Azure AI Foundry",
@@ -101,7 +101,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Database className="w-6 h-6" />,
+      icon: <DatabaseBackup className="w-6 h-6" />,
       title: "AWS Fundamentals",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413975/Captura_de_pantalla_2026-01-02_a_la_s_22.12.38_pbmqa0.png",
       description: "AWS Fundamentals",
@@ -110,101 +110,101 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <Target className="w-6 h-6" />,
-      title: "DevOps Fundamentals",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "CI/CD Pipeline Management",
-      date: "2023",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413974/Captura_de_pantalla_2026-01-02_a_la_s_22.13.34_uc5kyx.png",
+      description: "Choosing and implementing models from the model catalog in the Azure AI Foundry portal",
+      date: "2025",
       color: "orange",
       verified: true
     },
     {
-      icon: <Code className="w-6 h-6" />,
-      title: "Vue.js Professional",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414020/Captura_de_pantalla_2026-01-02_a_la_s_22.15.34_cqau17.png",
-      description: "Frontend Framework Expertise",
-      date: "2023",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413975/Captura_de_pantalla_2026-01-02_a_la_s_22.14.37_gu22gc.png",
+      description: "Implementation of a model at a managed online connection point",
+      date: "2025",
       color: "green",
-      verified: false
+      verified: true
     },
     {
-      icon: <Users className="w-6 h-6" />,
-      title: "Scrum Master Certified",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Agile Project Management",
-      date: "2023",
+      icon: <Brain className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413975/Captura_de_pantalla_2026-01-02_a_la_s_22.14.45_obk8g8.png",
+      description: "Implementing a responsible generative artificial intelligence solution on Azure AI Foundry",
+      date: "2025",
       color: "blue",
       verified: true
     },
     {
-      icon: <Database className="w-6 h-6" />,
-      title: "MongoDB Advanced",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "NoSQL Database Design",
-      date: "2024",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure Machine Learning",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.14.30_fc2euc.png",
+      description: "I work with Azure Machine Learning environments",
+      date: "2025",
       color: "green",
       verified: true
     },
     {
-      icon: <Zap className="w-6 h-6" />,
-      title: "API Design Best Practices",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "RESTful & GraphQL APIs",
-      date: "2024",
+      icon: <Brain className="w-6 h-6" />,
+      title: "Microsoft Azure AI services",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.16.01_d0jffu.png",
+      description: "Protecting Azure AI services",
+      date: "2025",
       color: "purple",
       verified: true
     },
     {
-      icon: <Cloud className="w-6 h-6" />,
-      title: "Kubernetes Administration",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Container Orchestration",
-      date: "2023",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure Machine Learning",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.16.09_soheim.png",
+      description: "Register an MLFlow model in Azure Machine Learning.",
+      date: "2025",
       color: "blue",
-      verified: false
+      verified: true
     },
     {
-      icon: <BookOpen className="w-6 h-6" />,
-      title: "Web Security Essentials",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Application Security",
-      date: "2024",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.16.15_xp2cs6.png",
+      description: "Responsible use of artificial intelligence with content security from Azure AI Foundry",
+      date: "2025",
       color: "orange",
       verified: true
     },
     {
-      icon: <Code className="w-6 h-6" />,
-      title: "Node.js Backend Development",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Server-Side JavaScript",
-      date: "2024",
+      icon: <BrainCog className="w-6 h-6" />,
+      title: "AWS Engineering",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413997/Captura_de_pantalla_2026-01-02_a_la_s_22.12.23_phjuxb.png",
+      description: "AWS foundations of prompt engineering",
+      date: "2025",
       color: "green",
       verified: true
     },
     {
-      icon: <Target className="w-6 h-6" />,
-      title: "Cloud Architecture",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Scalable System Design",
-      date: "2023",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413997/Captura_de_pantalla_2026-01-02_a_la_s_22.14.25_qxcl56.png",
+      description: "Developing an AI application with the Azure AI Foundry SDK",
+      date: "2025",
       color: "blue",
       verified: true
     },
     {
-      icon: <Users className="w-6 h-6" />,
-      title: "Technical Leadership",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Team Management Skills",
-      date: "2024",
+      icon: <BrainCircuit className="w-6 h-6" />,
+      title: "Microsoft Azure AI",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413998/Captura_de_pantalla_2026-01-02_a_la_s_22.15.52_by2nqd.png",
+      description: "Planning and preparation for developing artificial intelligence solutions in Azure",
+      date: "2025",
       color: "purple",
       verified: true
     },
     {
-      icon: <Award className="w-6 h-6" />,
-      title: "Linux Professional Institute",
-      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1758859501/Logros_-_csarbetancourth-8949___Microsoft_Learn_lu3krs.png",
-      description: "Linux System Administration",
-      date: "2023",
+      icon: <Brain className="w-6 h-6" />,
+      title: "Microsoft Azure AI Foundry",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414006/Captura_de_pantalla_2026-01-02_a_la_s_22.14.17_dnqwow.png",
+      description: "Developing a RAG-based solution using your own data through Azure AI Foundry",
+      date: "2025",
       color: "orange",
       verified: true
     }
