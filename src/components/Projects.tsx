@@ -23,7 +23,11 @@ const Projects = () => {
     },
     {
       title: "CubeSweeper",
-      description: "API escalable para gestión de dispositivos IoT con autenticación JWT, documentación automática y monitoreo en tiempo real.",
+      description: "CubeSweeper es un proyecto de juego donde reimagino el buscaminas en un cubo 3D con seis caras independientes. Cada cara funciona como su propio tablero, lo que convierte el juego en una experiencia de lógica más estratégica y modular.
+
+Este proyecto lo desarrollé para poner en práctica y demostrar mis conocimientos en los lenguajes y tecnologías que utilicé, aplicándolos en un entorno real y funcional. Es una forma directa de mostrar cómo pienso, estructuro y resuelvo problemas a través del código.
+
+Estoy entusiasmado por compartir CubeSweeper como parte de mi proceso de aprendizaje y crecimiento como desarrollador.",
       technologies: ["Node.js", "Express", "MongoDB", "JWT", "Swagger", "Socket.io"],
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767609225/Captura_de_pantalla_2026-01-05_a_la_s_04.33.27_v4uchc.png",
       github: "https://github.com",
