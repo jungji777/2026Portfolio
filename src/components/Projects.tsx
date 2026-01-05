@@ -22,12 +22,12 @@ const Projects = () => {
       icon: <Brain className="w-6 h-6" />
     },
     {
-      title: "API REST para IoT",
+      title: "CubeSweeper",
       description: "API escalable para gestión de dispositivos IoT con autenticación JWT, documentación automática y monitoreo en tiempo real.",
       technologies: ["Node.js", "Express", "MongoDB", "JWT", "Swagger", "Socket.io"],
-      image: "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767609225/Captura_de_pantalla_2026-01-05_a_la_s_04.33.27_v4uchc.png",
       github: "https://github.com",
-      demo: null,
+      demo: "https://minecube-jungji.vercel.app/",
       icon: <Database className="w-6 h-6" />
     },
     {
