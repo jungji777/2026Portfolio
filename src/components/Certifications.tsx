@@ -37,7 +37,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <CloudDrizzle className="w-6 h-6" />,
+      icon: <Cloud className="w-6 h-6" />,
       image:
         "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414031/Captura_de_pantalla_2026-01-02_a_la_s_19.27.00_zjltmf.png",
       title: "Amazon EMR",
@@ -56,7 +56,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414030/Captura_de_pantalla_2026-01-02_a_la_s_22.16.22_r4ux4t.png",
       description: "Running a training script as a command job in Azure Machine Learning",
@@ -65,7 +65,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsft AI Services",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.13.53_tnpon3.png",
       description: "Creation and consumption of Azure AI services .pdf",
@@ -74,7 +74,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.14.53_iblri0.png",
       description: "Introduction to the prompt flow for developing linguistic modeling applications in Azure AI Foundry",
@@ -83,7 +83,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767414021/Captura_de_pantalla_2026-01-02_a_la_s_22.16.28_knm5qn.png",
       description: "Tuning a language model with Azure AI Foundry",
@@ -101,7 +101,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <DatabaseBackup className="w-6 h-6" />,
+      icon: <Database className="w-6 h-6" />,
       title: "AWS Fundamentals",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413975/Captura_de_pantalla_2026-01-02_a_la_s_22.12.38_pbmqa0.png",
       description: "AWS Fundamentals",
@@ -110,7 +110,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413974/Captura_de_pantalla_2026-01-02_a_la_s_22.13.34_uc5kyx.png",
       description: "Choosing and implementing models from the model catalog in the Azure AI Foundry portal",
@@ -119,7 +119,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413975/Captura_de_pantalla_2026-01-02_a_la_s_22.14.37_gu22gc.png",
       description: "Implementation of a model at a managed online connection point",
@@ -137,7 +137,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure Machine Learning",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.14.30_fc2euc.png",
       description: "I work with Azure Machine Learning environments",
@@ -155,7 +155,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure Machine Learning",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.16.09_soheim.png",
       description: "Register an MLFlow model in Azure Machine Learning.",
@@ -164,7 +164,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413988/Captura_de_pantalla_2026-01-02_a_la_s_22.16.15_xp2cs6.png",
       description: "Responsible use of artificial intelligence with content security from Azure AI Foundry",
@@ -173,7 +173,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCog className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "AWS Engineering",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413997/Captura_de_pantalla_2026-01-02_a_la_s_22.12.23_phjuxb.png",
       description: "AWS foundations of prompt engineering",
@@ -182,7 +182,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI Foundry",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413997/Captura_de_pantalla_2026-01-02_a_la_s_22.14.25_qxcl56.png",
       description: "Developing an AI application with the Azure AI Foundry SDK",
@@ -191,7 +191,7 @@ const Certifications = () => {
       verified: true
     },
     {
-      icon: <BrainCircuit className="w-6 h-6" />,
+      icon: <Brain className="w-6 h-6" />,
       title: "Microsoft Azure AI",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767413998/Captura_de_pantalla_2026-01-02_a_la_s_22.15.52_by2nqd.png",
       description: "Planning and preparation for developing artificial intelligence solutions in Azure",

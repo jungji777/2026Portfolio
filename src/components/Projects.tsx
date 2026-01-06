@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Github, Database, Globe, Brain, ShoppingCart } from 'lucide-react';
+import { ExternalLink, Github, Database, Globe, Brain, ShoppingCart, GamepadIcon } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
@@ -28,7 +28,7 @@ const Projects = () => {
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1767609225/Captura_de_pantalla_2026-01-05_a_la_s_04.33.27_v4uchc.png",
       github: "https://github.com",
       demo: "https://minecube-jungji.vercel.app/",
-      icon: <Database className="w-6 h-6" />
+      icon: <GamepadIcon className="w-6 h-6" />
     },
     {
       title: "Portfolio Web Responsive",
