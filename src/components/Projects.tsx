@@ -6,10 +6,10 @@ const Projects = () => {
     {
       title: "E-commerce Analytics Dashboard",
       description: "Dashboard interactivo para análisis de ventas en tiempo real con visualizaciones avanzadas y predicciones de demanda usando machine learning.",
-      technologies: ["React", "Python", "FastAPI", "PostgreSQL", "Chart.js", "scikit-learn"],
+      technologies: ["React", "Vite", "Next.js", "PostgreSQL", "SQL", "AWS", "Tailwind CSS", "Framer Notion", "Vercel"],
       image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=400",
       github: "https://github.com",
-      demo: "https://demo.com",
+      demo: "https://tigoapp-jungji.vercel.app/",
       icon: <ShoppingCart className="w-6 h-6" />
     },
     {
