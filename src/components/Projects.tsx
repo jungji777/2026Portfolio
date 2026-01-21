@@ -4,7 +4,7 @@ import { ExternalLink, Github, Database, Globe, Brain, ShoppingCart, GamepadIcon
 const Projects = () => {
   const projects = [
     {
-      title: "E-commerce Analytics Dashboard",
+      title: "Re-Diseño de la APP movil Tigo",
       description: "Dashboard interactivo para análisis de ventas en tiempo real con visualizaciones avanzadas y predicciones de demanda usando machine learning.",
       technologies: ["React", "Vite", "Next.js", "PostgreSQL", "SQL", "AWS", "Tailwind CSS", "Framer Notion", "Vercel"],
       image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=400",
